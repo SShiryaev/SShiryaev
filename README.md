@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @SShiryaev
-- 👀 I’m interested in learning programming
-- 🌱 I’m currently learning at an online university
 
 
 <!---
